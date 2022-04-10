@@ -1,0 +1,29 @@
+body{
+    background-color: floralwhite;}
+section{
+    width:400px;
+    align-content: center;
+    margin: auto;}
+h1{
+    font-size: 6vw;
+    text-align: center;}
+p{
+    font-size: 3vw;
+    text-align: center;}
+span{}
+#box{
+    margin: auto;
+    width: 150px;
+}
+button{
+        margin: auto;
+        cursor:pointer;
+        align-content: center;
+        width: 50px;
+}
+#start{
+    float:left;}
+#stop{
+}
+#reset{
+    float: right;}
